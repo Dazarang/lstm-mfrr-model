@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+venv/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pytest
+.cache/
+
+# data pack
+data/raw
+data/processed
+data/filtered_data
+data/pivoted_data
+data/TP_export_zip
